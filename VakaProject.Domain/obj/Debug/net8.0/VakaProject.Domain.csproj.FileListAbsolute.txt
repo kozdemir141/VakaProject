@@ -1,0 +1,11 @@
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\bin\Debug\net8.0\VakaProject.Domain.deps.json
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\bin\Debug\net8.0\VakaProject.Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\bin\Debug\net8.0\VakaProject.Domain.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.AssemblyInfoInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.AssemblyInfo.cs
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\refint\VakaProject.Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\VakaProject.Domain.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Domain\obj\Debug\net8.0\ref\VakaProject.Domain.dll

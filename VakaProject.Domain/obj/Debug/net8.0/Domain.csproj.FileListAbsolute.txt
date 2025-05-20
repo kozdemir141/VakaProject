@@ -1,0 +1,11 @@
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\Domain\obj\Debug\net8.0\ref\Domain.dll

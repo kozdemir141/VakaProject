@@ -1,0 +1,12 @@
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\bin\Debug\net8.0\VakaProject.Shared.deps.json
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\bin\Debug\net8.0\VakaProject.Shared.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\bin\Debug\net8.0\VakaProject.Shared.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.csproj.AssemblyReference.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.AssemblyInfoInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.AssemblyInfo.cs
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\refint\VakaProject.Shared.dll
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\VakaProject.Shared.pdb
+C:\Users\kutlu.ozdemir\RiderProjects\VakaProject\VakaProject.Shared\obj\Debug\net8.0\ref\VakaProject.Shared.dll

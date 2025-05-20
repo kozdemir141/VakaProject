@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2i/iLht8gYM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.Domain\\VakaProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kutlu.ozdemir\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.104\\microsoft.net.sdk.compilers.toolset.9.0.104.nupkg.sha512",
+    "C:\\Users\\kutlu.ozdemir\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\kutlu.ozdemir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\kutlu.ozdemir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

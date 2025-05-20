@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.Data\\Migrations\\20250520132919_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VakaProject.Data\\Migrations\\20250520132919_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|c:\\users\\kutlu.ozdemir\\riderprojects\\vakaproject\\vakaproject.wepapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|solutionrelative:vakaproject.wepapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|c:\\users\\kutlu.ozdemir\\riderprojects\\vakaproject\\vakaproject.wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|solutionrelative:vakaproject.wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|c:\\users\\kutlu.ozdemir\\riderprojects\\vakaproject\\vakaproject.wepapi\\vakaproject.wepapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4778D4DD-1CD8-412C-AA71-A9319DACB124}|VakaProject.WepApi\\VakaProject.WepApi.csproj|solutionrelative:vakaproject.wepapi\\vakaproject.wepapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250520132919_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.Data\\Migrations\\20250520132919_mig1.cs",
+              "RelativeDocumentMoniker": "VakaProject.Data\\Migrations\\20250520132919_mig1.cs",
+              "ToolTip": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.Data\\Migrations\\20250520132919_mig1.cs",
+              "RelativeToolTip": "VakaProject.Data\\Migrations\\20250520132919_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:29:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VakaProject.WepApi",
+              "DocumentMoniker": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\VakaProject.WepApi.csproj",
+              "RelativeDocumentMoniker": "VakaProject.WepApi\\VakaProject.WepApi.csproj",
+              "ToolTip": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\VakaProject.WepApi.csproj",
+              "RelativeToolTip": "VakaProject.WepApi\\VakaProject.WepApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T13:27:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VakaProject.WepApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\appsettings.json",
+              "RelativeToolTip": "VakaProject.WepApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:28:16.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VakaProject.WepApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kutlu.ozdemir\\RiderProjects\\VakaProject\\VakaProject.WepApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VakaProject.WepApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:27:54.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VakaProject.WepApi.props" />
+</Project>
